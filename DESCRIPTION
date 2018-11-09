@@ -1,0 +1,11 @@
+Package: chemometricmenus
+Type: Package
+Title: Chemometric package
+Version: 1.0
+Date: 2014-07-24
+Author: Riccardo Leardi and Gianmarco Polotti with contributions from Giorgio Marubini.Gruppo di Chemiometria (Divisione di Chimica Analitica della Societa' Chimica Italiana)
+Maintainer: Gianmarco Polotti <gianmarco.polotti@gmail.com>
+Description: Chemometric functions driven by graphical menus
+Depends:tools,StatDA,graphics,stringr,zoom,MASS,gdata,gplots,pcaMethods,geoR,pls,pracma,matrixcalc,AnalyzeFMRI,car,chemometrics,MenuCollection
+Suggests:
+License: GPL-2
